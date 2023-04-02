@@ -1,0 +1,24 @@
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\bin\Debug\net6.0\BoltFood.Core.deps.json
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\bin\Debug\net6.0\BoltFood.Core.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\bin\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\refint\BoltFood.Core.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\99455\Desktop\hecer c++\BoltFood.Core\obj\Debug\net6.0\ref\BoltFood.Core.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\bin\Debug\net6.0\BoltFood.Core.deps.json
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\bin\Debug\net6.0\BoltFood.Core.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\bin\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.AssemblyInfo.cs
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\refint\BoltFood.Core.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Core\obj\Debug\net6.0\ref\BoltFood.Core.dll

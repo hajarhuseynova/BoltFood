@@ -1,0 +1,30 @@
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\bin\Debug\net6.0\BoltFood.Data.deps.json
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\bin\Debug\net6.0\BoltFood.Data.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\bin\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\bin\Debug\net6.0\BoltFood.Core.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\bin\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.csproj.CopyComplete
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\refint\BoltFood.Data.dll
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\99455\Desktop\hecer c++\BoltFood.Data\obj\Debug\net6.0\ref\BoltFood.Data.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\bin\Debug\net6.0\BoltFood.Data.deps.json
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\bin\Debug\net6.0\BoltFood.Data.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\bin\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\bin\Debug\net6.0\BoltFood.Core.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\bin\Debug\net6.0\BoltFood.Core.pdb
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.AssemblyInfo.cs
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.csproj.CopyComplete
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\refint\BoltFood.Data.dll
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\BoltFood.Data.pdb
+C:\Users\99455\Desktop\ConsoleApp\BoltFood.Data\obj\Debug\net6.0\ref\BoltFood.Data.dll
